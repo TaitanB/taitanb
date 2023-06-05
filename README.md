@@ -33,9 +33,20 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-
+<ul>
+<li>
 <b><a href="https://taitanb.github.io/web-studio/" target="_blank" rel="noreferrer">Web Studio</a></b>
+</li>
+<li>
 <b><a href="https://taitanb.github.io/Plant/" target="_blank" rel="noreferrer">Plant</a></b>
+</li>
+<li>
 <b><a href="https://khailoandrey.github.io/Project_13/" target="_blank" rel="noreferrer">Shop for gamers</a></b>
+</li>
+<li>
 <b><a href="https://taitanb.github.io/search-images-on-pixabay/" target="_blank" rel="noreferrer">Search images Pixabay</a></b>
+</li>
+<li>
 <b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a></b>
+</li>
+</ul>
