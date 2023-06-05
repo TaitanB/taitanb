@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tetiana</h1>
+<h1 align="center">Hi, I'm Tetiana!</h1>
 <h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taitanb&label=Profile%20views&color=0e75b6&style=flat" alt="taitanb" /> </p>
@@ -9,7 +9,7 @@
 <a href="https://t.me/TaitanB" target="blank"><img align="center" src="./telegram.svg" alt="https://www.linkedin.com/in/tetiana-bartoshyk/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech skills:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -35,18 +35,30 @@
 <h3 align="left">Projects:</h3>
 <ul>
 <li>
-<b><a href="https://taitanb.github.io/web-studio/" target="_blank" rel="noreferrer">Web Studio</a></b>
+<b><a href="https://taitanb.github.io/phonebook/" target="_blank" rel="noreferrer">Contacts App</a> </b>[HTML, styled-components, React, reduxjs/toolkit]
 </li>
 <li>
-<b><a href="https://taitanb.github.io/Plant/" target="_blank" rel="noreferrer">Plant</a></b>
+<b><a href="https://taitanb.github.io/movies/" target="_blank" rel="noreferrer">Movies</a> </b>[HTML, module.css, React]
+</li>
+
+<li>
+<b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a> </b>[HTML, CSS, JS]
 </li>
 <li>
-<b><a href="https://khailoandrey.github.io/Project_13/" target="_blank" rel="noreferrer">Shop for gamers</a></b>
+<b><a href="https://taitanb.github.io/search-images-on-pixabay/" target="_blank" rel="noreferrer">Search images Pixabay</a> </b>[HTML, SCSS, JS]
+</li>
+
+<li>
+<b><a href="https://khailoandrey.github.io/Project_13/" target="_blank" rel="noreferrer">Shop for gamers</a> </b>[HTML, SCSS, JS]
 </li>
 <li>
-<b><a href="https://taitanb.github.io/search-images-on-pixabay/" target="_blank" rel="noreferrer">Search images Pixabay</a></b>
+<b><a href="https://taitanb.github.io/web-studio/" target="_blank" rel="noreferrer">Web Studio</a> </b>[HTML, SCSS, JS]
 </li>
 <li>
-<b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a></b>
+<b><a href="https://taitanb.github.io/interior-design-studio/" target="_blank" rel="noreferrer">Interior Design Studio</a> </b> [HTML, CSS]
 </li>
+<li>
+<b><a href="https://taitanb.github.io/BritlexLanguageSchool/" target="_blank" rel="noreferrer">Britlex</a> </b>[HTML, SCSS, JS]
+</li>
+
 </ul>
