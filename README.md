@@ -42,14 +42,14 @@
 </li>
 
 <li>
-<b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a> </b>[HTML, CSS, JS]
+<b><a href="https://dimakhukr.github.io/project_13_js/" target="_blank" rel="noreferrer">News</a> (team project) </b>[HTML, CSS, JS] 
 </li>
 <li>
 <b><a href="https://taitanb.github.io/search-images-on-pixabay/" target="_blank" rel="noreferrer">Search images Pixabay</a> </b>[HTML, SCSS, JS]
 </li>
 
 <li>
-<b><a href="https://khailoandrey.github.io/Project_13/" target="_blank" rel="noreferrer">Shop for gamers</a> </b>[HTML, SCSS, JS]
+<b><a href="https://khailoandrey.github.io/Project_13/" target="_blank" rel="noreferrer">Shop for gamers</a> (team project) </b>[HTML, SCSS, JS] 
 </li>
 <li>
 <b><a href="https://taitanb.github.io/web-studio/" target="_blank" rel="noreferrer">Web Studio</a> </b>[HTML, SCSS, JS]
