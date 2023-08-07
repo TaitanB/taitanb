@@ -42,6 +42,9 @@
 </ul> 
 </li>
 <li>
+<b><a href="https://taitanb.github.io/catORdog/" target="_blank" rel="noreferrer">catORdog?</a> </b> [HTML, CSS, styled-components, React] <a href="https://github.com/TaitanB/catORdog" target="_blank" rel="noreferrer">link</a>
+</li>
+<li>
 <b><a href="https://taitanb.github.io/phonebook/" target="_blank" rel="noreferrer">Contacts App</a> </b> [HTML, styled-components, React, Redux.js/toolkit] <a href="https://github.com/TaitanB/phonebook" target="_blank" rel="noreferrer">link</a>
 </li>
 <li>
@@ -67,5 +70,4 @@
 <li>
 <b><a href="https://taitanb.github.io/BritlexLanguageSchool/" target="_blank" rel="noreferrer">Britlex</a> </b>[HTML, SCSS, JS] <a href="https://github.com/TaitanB/BritlexLanguageSchool" target="_blank" rel="noreferrer">link</a>
 </li>
-
 </ul>
