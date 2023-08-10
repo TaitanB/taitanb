@@ -42,7 +42,7 @@
 </ul> 
 </li>
 <li>
-<b><a href="https://taitanb.github.io/catORdog/" target="_blank" rel="noreferrer">catORdog?</a> </b> [HTML, CSS, styled-components, React] <a href="https://github.com/TaitanB/catORdog" target="_blank" rel="noreferrer">link</a>
+<b><a href="https://taitanb.github.io/cat-or-dog/" target="_blank" rel="noreferrer">catORdog?</a> </b> [HTML, CSS, styled-components, React] <a href="https://github.com/TaitanB/cat-or-dog" target="_blank" rel="noreferrer">link</a>
 </li>
 <li>
 <b><a href="https://taitanb.github.io/phonebook/" target="_blank" rel="noreferrer">Contacts App</a> </b> [HTML, styled-components, React, Redux.js/toolkit] <a href="https://github.com/TaitanB/phonebook" target="_blank" rel="noreferrer">link</a>
