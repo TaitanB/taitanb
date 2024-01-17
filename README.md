@@ -29,6 +29,7 @@
 <a href="https://nodejs.org/ru" target="_blank" rel="noreferrer"><img src="/png/nodejs.png" alt="nodejs" width="40" height="40"></a> &nbsp; 
 <a href="http://expressjs.com/en" target="_blank" rel="noreferrer"><img src="/png/icon-express-js.png" alt="expressjs" width="40" height="40"></a> &nbsp; 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="/png/mongodb.png" alt="MongoDB" width="40" height="40"></a> &nbsp; 
+<a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="/png/socket.io.png" alt="socket.io" width="40" height="40"></a> &nbsp; 
 <a href="https://swagger.io/docs/specification/about/" target="_blank" rel="noreferrer"><img src="/png/swagger.png" alt="swagger" width="40" height="40"></a>
 </p>
 
