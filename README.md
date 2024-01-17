@@ -35,6 +35,10 @@
 <h2 align="left">My projects:</h2>
 <ul>
 <li>
+<b><a href="https://talkiehub.netlify.app/" target="_blank" rel="noreferrer">Talkie</a> (team project)</b>
+<a href="https://github.com/TaitanB/teamchallenge-chat-api" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, MongoDB, socket.io, Swagger] <a href="https://teamchallenge-chat-api.onrender.com/api-docs/#/" target="_blank" rel="noreferrer">api-docs</a>
+</li>
+<li>
 <b><a href="https://khailoandrey.github.io/final-project-frontend/" target="_blank" rel="noreferrer">Your Pet</a> (team project):</b>
 <ul>
 <li><a href="https://github.com/TaitanB/final-project-backend" target="_blank" rel="noreferrer">Backend</a> [Node.js, Express.js, MongoDB, Cloudinary, Swagger] <a href="https://final-project-backend-4o0r.onrender.com/api-docs/#/" target="_blank" rel="noreferrer">api-docs</a> </li>
